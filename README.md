@@ -1,6 +1,8 @@
 
 ## Superstore Sales Analysis and Visualization
+
 **Project Overview**
+
 This project involves an extensive analysis of a 4-year dataset detailing sales and profits for a superstore. The primary objective is to analyze trends and extract insights based on categorical and sub-categorical data through in-depth visualization using Python.
 
 **Project Objectives**
@@ -40,8 +42,10 @@ pip install pandas matplotlib seaborn plotly
 - Sub-category Analysis: Detailed analysis of sales within each sub-category.
 
 **Insights**
+
 This project reveals key insights into superstore sales trends, providing valuable information on which categories and sub-categories drive profits, seasonal trends, and long-term growth patterns.
 
 **License**
+
 This project is licensed under the MIT License.
 
